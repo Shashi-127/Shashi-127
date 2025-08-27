@@ -1,16 +1,31 @@
-## Hi there 👋
+# Hi there, I'm Shashi 👋
 
-<!--
-**Shashi-127/Shashi-127** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an enthusiastic learner, coder, and developer currently working as **SDE-1 at Fanatics** in Hyderabad. I completed my B.Tech in Computer Science & Engineering from NIT Patna.
 
-Here are some ideas to get you started:
+- 💼 **Current Role:** SDE-1 at Fanatics, Hyderabad
+- 🎓 **College:** NIT Patna
+- 🌍 **Location:** Hyderabad (previously Patna, Bihar)
+- 💻 **Portfolio:** [Visit my Portfolio Website](https://shashi-127.github.io/Portfolio_website/)
+- 🐦 **Twitter:** [@shashik19118597](https://twitter.com/shashik19118597)
+- 📅 **Joined GitHub:** February 2022
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+
+I love learning new things and building projects that challenge my skills. I enjoy collaborating with other developers.
+
+## 🛠️ Skills & Interests
+
+- Coding & Development
+- Exploring new technologies
+- Open source contribution
+
+
+<!-- Optionally, you can add a GitHub stats card here using a service like github-readme-stats -->
+
+## 📫 How to reach me
+
+You can contact me via [Twitter](https://twitter.com/shashik19118597) or check out my [portfolio website](https://shashi-127.github.io/Portfolio_website/).
+
+---
+
+*Thanks for visiting my profile!*
